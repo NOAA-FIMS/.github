@@ -15,4 +15,4 @@ The NOAA FIT is an interdisciplinary, web-based portal of operational tools that
 - [The Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/).
 - [Stock Assessment Dictionary Project](https://github.com/nmfs-fish-tools/data_dictionary)
 
-> If you have questions or comments please [contact the FIMS project lead](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/contact/). 
+> If you have questions or comments please [contact the FIMS project lead](mailto:christine.stawitz@noaa.gov). 
