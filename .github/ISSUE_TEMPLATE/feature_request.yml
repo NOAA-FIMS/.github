@@ -1,6 +1,6 @@
 name: Enhancement Request
 description: Request new features or changes to features
-title: ""
+title: "[feature:] "
 labels: ["kind: enhancement", "status: triage_needed"]
 body:
   - type: markdown
@@ -42,8 +42,8 @@ body:
     attributes:
       label: Statistical validity
       description: |
-      Please link to a paper or reference that describes how this approach
-      improves accuracy or statistical power.
+        Please link to a paper or reference that describes how this approach
+        improves accuracy or statistical power.
     validations:
       required: false
   - type: textarea
@@ -51,10 +51,10 @@ body:
     attributes:
       label: Additional context
       description: |
-      Add any other context or screenshots about the enhancement request here.
-      For example, is the feature necessary to satisfy the Terms of Reference
-      for your fishery management body, please explain why and list the
-      relevant management body.
+        Add any other context or screenshots about the enhancement request here.
+        For example, is the feature necessary to satisfy the Terms of Reference
+        for your fishery management body, please explain why and list the
+        relevant management body.
     validations:
       required: false
       
