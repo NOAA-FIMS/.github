@@ -1,7 +1,7 @@
 name: Developer (other issue)
 description: |
   This issue form is for developers of FIMS and its associated tools to
-  document anything that is not related to a bug or enhancement.
+  document anything that is not related to a bug or feature.
 title: "[Developer Issue]: "
 labels: ["status: triage_needed"]
 body:

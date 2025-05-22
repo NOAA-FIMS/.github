@@ -1,7 +1,8 @@
 name: Bug Report
 description: Report a bug that is causing a problem.
 title: "[Bug:] "
-labels: ["kind: bug", "status: triage_needed"]
+labels: ["status: triage_needed"]
+type: Bug
 body:
   - type: markdown
     attributes:

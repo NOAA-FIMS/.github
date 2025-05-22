@@ -1,7 +1,8 @@
 name: Enhancement Request
 description: Request new features or changes to features
 title: "[feature:] "
-labels: ["kind: feature", "status: triage_needed"]
+labels: ["status: triage_needed"]
+type: Feature
 body:
   - type: markdown
     attributes:
